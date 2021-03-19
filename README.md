@@ -1,7 +1,7 @@
-# Google Cloud SDK w/ Node.js Docker
+# Google Cloud SDK w/ Node.js Docker included Yarn package
 
-This is Docker image for the [Google Cloud SDK](https://cloud.google.com/sdk/).
+This is Docker image for the [Google Cloud SDK](https://cloud.google.com/sdk/) included **yarn** package.
 
 ## Supported tags
 
-* `boiyaa/google-cloud-sdk-nodejs:latest`, `boiyaa/google-cloud-sdk-nodejs:12`, `boiyaa/google-cloud-sdk-nodejs:10`
+* `ngocdung088/google-cloud-sdk-nodejs:latest`, `ngocdung088/google-cloud-sdk-nodejs:12`, `ngocdung088/google-cloud-sdk-nodejs:10`
